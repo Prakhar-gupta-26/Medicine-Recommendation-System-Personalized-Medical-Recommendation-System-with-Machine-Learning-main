@@ -1,4 +1,5 @@
-# Medicine-Recommendation-System-Personalized-Medical-Recommendation-System-with-Machine-Learning-main
+# Second-Month-Project
+Medicine-Recommendation-System-Personalized-Medical-Recommendation-System-with-Machine-Learning-main
 Personalized Medical Recommendation System using Machine Learning”! This platform is built with the goal of assisting users in managing their health more effectively through smart, AI-driven insights. 🚑📊
 
 In today's world, where access to healthcare can be limited or overwhelming, our system aims to bridge the gap by offering instant, personalized medical support based on symptoms provided by users. Here's how it works and what makes it stand out:
